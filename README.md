@@ -1,0 +1,3 @@
+Brute force solution to solve crypt-arithmetic puzzles
+
+Warning, pretty slow...
